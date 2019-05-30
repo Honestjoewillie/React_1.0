@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
+import logo from './yinyang.svg';
 import './App.css';
 import FirstComponent from './firstComponent';
 class App extends Component{
@@ -10,7 +10,6 @@ class App extends Component{
       items: []
     }
   }
-
   // toggle = () =>{
   //   this.setState({isOn: !this.state.isOn})
   // }
